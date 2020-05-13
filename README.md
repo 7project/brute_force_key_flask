@@ -1,3 +1,3 @@
-# brute_force_key_flask
+# Brute force password
 
-Hacking pasword brute force for server flask.
+Hacking password brute force for server flask.
